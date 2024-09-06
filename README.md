@@ -1,1 +1,3 @@
 # ProyectoLogisticoo
+
+terminal > npm start
